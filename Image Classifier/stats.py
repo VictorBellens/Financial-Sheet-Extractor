@@ -27,10 +27,10 @@ MAX_SAMPLES_PER_CATEGORY = 1000
 IMAGE_EXTENSIONS = ('.png', '.jpg', '.jpeg')
 MAX_NUM_WORDS = 10000
 MAX_SEQUENCE_LENGTH = 200
-MODEL_PATH = "/Users/triniroca/Desktop/stats_new/model11.h5"
-TOKENIZER_PATH = "/Users/triniroca/Desktop/stats_new/tokenizer11.pkl"
-ENCODER_PATH = "/Users/triniroca/Desktop/stats_new/encoder11.pkl"
-PREPROCESSED_DIR = "/Users/triniroca/Desktop/stats_new/preprocessed/"
+MODEL_PATH = "model11.h5"
+TOKENIZER_PATH = "tokenizer11.pkl"
+ENCODER_PATH = "encoder11.pkl"
+PREPROCESSED_DIR = "preprocessed/"
 
 # Preprocessing and OCR
 def preprocess_image_for_ocr(image_path):
@@ -248,7 +248,7 @@ if __name__ == "__main__":
     print("Starting document classification using OCR and LSTM...\n")
     
     # Option to train or load
-    TRAIN = True  # Set to True to train now
+    TRAIN = False  # Set to True to train now
     if TRAIN:
         model, tokenizer, encoder = train_model()
     else:
