@@ -14,7 +14,7 @@ import PyPDF2
 from PIL import Image
 
 # Global flag for lightweight mode (no TensorFlow)
-LIGHTWEIGHT_MODE = True  # Set to True by default to avoid TensorFlow errors
+LIGHTWEIGHT_MODE = False  # Set to True by default to avoid TensorFlow errors
 
 # Only import TensorFlow-related modules if not in lightweight mode
 if not LIGHTWEIGHT_MODE:
