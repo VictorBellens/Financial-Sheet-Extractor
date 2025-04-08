@@ -1,0 +1,68 @@
+{
+  "SuperStore": {
+    "issuer_pattern": "SuperStore|Super\\s+Store",
+    "header_pattern": "SuperStore\\s+Invoice",
+    "invoice_prefix": "INV-",
+    "confidence": 0.9
+  },
+  "Acme Corporation": {
+    "issuer_pattern": "Acme\\s+Corp|ACME|Acme\\s+Corporation",
+    "header_pattern": "ACME\\s+INVOICE",
+    "invoice_prefix": "AC-",
+    "confidence": 0.85
+  },
+  "Data Systems Ltd.": {
+    "issuer_pattern": "Data\\s+Systems|Data\\s+Systems\\s+Ltd",
+    "header_pattern": "Data\\s+Systems\\s+Invoice",
+    "invoice_prefix": "DS-",
+    "confidence": 0.85
+  },
+  "Green Energy Solutions": {
+    "issuer_pattern": "Green\\s+Energy|Green\\s+Energy\\s+Solutions",
+    "header_pattern": "Green\\s+Energy\\s+Invoice",
+    "invoice_prefix": "GES-",
+    "confidence": 0.85
+  },
+  "Tech Solutions Inc.": {
+    "issuer_pattern": "Tech\\s+Solutions|Tech\\s+Solutions\\s+Inc",
+    "header_pattern": "Tech\\s+Solutions\\s+Invoice",
+    "invoice_prefix": "TS-",
+    "confidence": 0.85
+  },
+  "Global Enterprises": {
+    "issuer_pattern": "Global\\s+Enterprises",
+    "header_pattern": "Global\\s+Enterprises\\s+Invoice",
+    "invoice_prefix": "GE-",
+    "confidence": 0.85
+  },
+  "Logistics Partners LLC": {
+    "issuer_pattern": "Logistics\\s+Partners|Logistics\\s+Partners\\s+LLC",
+    "header_pattern": "Logistics\\s+Partners\\s+Invoice",
+    "invoice_prefix": "LP-",
+    "confidence": 0.85
+  },
+  "Creative Design Studio": {
+    "issuer_pattern": "Creative\\s+Design|Creative\\s+Design\\s+Studio",
+    "header_pattern": "Creative\\s+Design\\s+Invoice",
+    "invoice_prefix": "CDS-",
+    "confidence": 0.85
+  },
+  "Marketing Innovators": {
+    "issuer_pattern": "Marketing\\s+Innovators",
+    "header_pattern": "Marketing\\s+Innovators\\s+Invoice",
+    "invoice_prefix": "MI-",
+    "confidence": 0.85
+  },
+  "Eco Friendly Corp": {
+    "issuer_pattern": "Eco\\s+Friendly|Eco\\s+Friendly\\s+Corp",
+    "header_pattern": "Eco\\s+Friendly\\s+Invoice",
+    "invoice_prefix": "EFC-",
+    "confidence": 0.85
+  },
+  "Retail Distributors Inc.": {
+    "issuer_pattern": "Retail\\s+Distributors|Retail\\s+Distributors\\s+Inc",
+    "header_pattern": "Retail\\s+Distributors\\s+Invoice",
+    "invoice_prefix": "RD-",
+    "confidence": 0.85
+  }
+} 

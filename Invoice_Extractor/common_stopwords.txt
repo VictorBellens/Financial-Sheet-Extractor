@@ -1,0 +1,313 @@
+ship
+mode
+ship mode
+first class
+second class
+standard class
+bill to
+ship to
+customer
+client
+item
+quantity
+rate
+amount
+invoice
+invoice no
+invoice number
+date
+due date
+total
+subtotal
+tax
+vat
+price
+payment
+terms
+po
+purchase order
+order
+ref
+reference
+discount
+description
+unit
+qty
+product
+service
+id
+code
+account
+page
+delivery
+shipping
+balance
+due
+payment terms
+net
+days
+contact
+email
+phone
+fax
+website
+address
+street
+city
+state
+zip
+country
+postal code
+reg
+reg no
+company
+corporation
+inc
+llc
+ltd
+gmbh
+co
+order no
+order number
+order date
+tracking
+tracking no
+tracking number
+delivery date
+your ref
+vat no
+vat reg
+ein
+tax id
+federal id
+contact no
+tel
+telephone
+mobile
+cell
+url
+web
+www
+http
+https
+com
+net
+org
+edu
+gov
+info
+biz
+name
+attn
+attention
+care of
+c/o
+line
+item no
+line item
+sku
+barcode
+upc
+ean
+approved
+approved by
+signature
+sign
+authorized
+authorized by
+prepared
+prepared by
+processed
+processed by
+print
+printed
+please
+thank
+thanks
+thank you
+regards
+best
+best regards
+sincerely
+yours
+to
+from
+for
+with
+and
+the
+of
+a
+an
+in
+on
+at
+by
+as
+if
+or
+nor
+but
+so
+yet
+is
+are
+was
+were
+be
+being
+been
+have
+has
+had
+do
+does
+did
+can
+could
+shall
+should
+will
+would
+may
+might
+must
+am
+this
+that
+these
+those
+my
+your
+his
+her
+its
+our
+their
+i
+you
+he
+she
+it
+we
+they
+me
+him
+us
+them
+who
+whom
+which
+what
+whose
+whoever
+whatever
+whichever
+whomever
+where
+when
+how
+why
+page
+pages
+payment
+paid
+balance
+remaining
+bill to
+ship to
+attention
+attn
+balance due
+customer
+invoice
+receipt
+statement
+purchase order
+po number
+date
+due date
+issue date
+payment due
+order date
+ship date
+ship mode
+standard class
+first class
+second class
+ship method
+shipping method
+delivery method
+payment terms
+net
+item
+description
+quantity
+total
+subtotal
+amount
+grand total
+tax
+discount
+shipping
+handling
+amount due
+balance
+summary
+page
+reference
+ref
+account
+acc
+invoice number
+inv number
+number
+address
+phone
+tel
+fax
+email
+website
+url
+product
+service
+unit
+price
+cost
+rate
+currency
+notes
+terms
+conditions
+payment method
+remittance
+banking
+wire transfer
+check
+credit card
+transaction
+order
+confirmation
+line items
+tracking
+freight
+signature
+authorized
+contact
+sales rep
+sales representative
+invoice total
+refund
+return
+exchange
+purchase
+invoice details
+billing
+account number
+customer number
+vendor
+supplier
+contractor
+consultant
+prepaid
+balance forward 

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "INVOICE\nInvoice #: INV-2023-001\nDate: January 15, 2023\nDue Date: February 15, 2023\n\nFrom: Acme Corporation\n123 Business St\nNew York, NY 10001\n\nTo: Global Enterprises\n456 Commerce Ave\nChicago, IL 60601",
+    "field": "invoice_number",
+    "value": "INV-2023-001"
+  },
+  {
+    "text": "INVOICE\nInvoice #: INV-2023-001\nDate: January 15, 2023\nDue Date: February 15, 2023\n\nFrom: Acme Corporation\n123 Business St\nNew York, NY 10001\n\nTo: Global Enterprises\n456 Commerce Ave\nChicago, IL 60601",
+    "field": "invoice_date",
+    "value": "January 15, 2023"
+  },
+  {
+    "text": "INVOICE\nInvoice #: INV-2023-001\nDate: January 15, 2023\nDue Date: February 15, 2023\n\nFrom: Acme Corporation\n123 Business St\nNew York, NY 10001\n\nTo: Global Enterprises\n456 Commerce Ave\nChicago, IL 60601",
+    "field": "due_date",
+    "value": "February 15, 2023"
+  },
+  {
+    "text": "INVOICE\nInvoice #: INV-2023-001\nDate: January 15, 2023\nDue Date: February 15, 2023\n\nFrom: Acme Corporation\n123 Business St\nNew York, NY 10001\n\nTo: Global Enterprises\n456 Commerce Ave\nChicago, IL 60601",
+    "field": "issuer_name",
+    "value": "Acme Corporation"
+  },
+  {
+    "text": "INVOICE\nInvoice #: INV-2023-001\nDate: January 15, 2023\nDue Date: February 15, 2023\n\nFrom: Acme Corporation\n123 Business St\nNew York, NY 10001\n\nTo: Global Enterprises\n456 Commerce Ave\nChicago, IL 60601",
+    "field": "recipient_name",
+    "value": "Global Enterprises"
+  },
+  {
+    "text": "Subtotal                                        $8,500.00\nTax (8.5%)                                      $722.50\nTotal                                           $9,222.50",
+    "field": "total_amount",
+    "value": "$9,222.50"
+  },
+  {
+    "text": "INVOICE #: 2023-567\nIssue Date: 03/22/2023\nPayment Due: 04/21/2023\n\nBilled To:\nTech Solutions Inc.\n789 Innovation Blvd\nSan Francisco, CA 94107\n\nFrom:\nData Systems Ltd.\n555 Tech Park\nBoston, MA 02110",
+    "field": "invoice_number",
+    "value": "2023-567"
+  },
+  {
+    "text": "INVOICE #: 2023-567\nIssue Date: 03/22/2023\nPayment Due: 04/21/2023\n\nBilled To:\nTech Solutions Inc.\n789 Innovation Blvd\nSan Francisco, CA 94107\n\nFrom:\nData Systems Ltd.\n555 Tech Park\nBoston, MA 02110",
+    "field": "invoice_date",
+    "value": "03/22/2023"
+  },
+  {
+    "text": "INVOICE #: 2023-567\nIssue Date: 03/22/2023\nPayment Due: 04/21/2023\n\nBilled To:\nTech Solutions Inc.\n789 Innovation Blvd\nSan Francisco, CA 94107\n\nFrom:\nData Systems Ltd.\n555 Tech Park\nBoston, MA 02110",
+    "field": "due_date",
+    "value": "04/21/2023"
+  },
+  {
+    "text": "INVOICE #: 2023-567\nIssue Date: 03/22/2023\nPayment Due: 04/21/2023\n\nBilled To:\nTech Solutions Inc.\n789 Innovation Blvd\nSan Francisco, CA 94107\n\nFrom:\nData Systems Ltd.\n555 Tech Park\nBoston, MA 02110",
+    "field": "issuer_name",
+    "value": "Data Systems Ltd."
+  },
+  {
+    "text": "INVOICE #: 2023-567\nIssue Date: 03/22/2023\nPayment Due: 04/21/2023\n\nBilled To:\nTech Solutions Inc.\n789 Innovation Blvd\nSan Francisco, CA 94107\n\nFrom:\nData Systems Ltd.\n555 Tech Park\nBoston, MA 02110",
+    "field": "recipient_name",
+    "value": "Tech Solutions Inc."
+  },
+  {
+    "text": "Subtotal                                          $3,050.00\nDiscount (5%)                                     -$152.50\nTax                                               $290.75\nTotal Due                                         $3,188.25",
+    "field": "total_amount",
+    "value": "$3,188.25"
+  },
+  {
+    "text": "INVOICE\n\nInvoice No.: INV/2023/452\nDate: July 7, 2023\n\nVendor:\nGreen Energy Solutions\n888 Renewable Way\nPortland, OR 97201\nPhone: (503) 555-7890",
+    "field": "invoice_number",
+    "value": "INV/2023/452"
+  },
+  {
+    "text": "INVOICE\n\nInvoice No.: INV/2023/452\nDate: July 7, 2023\n\nVendor:\nGreen Energy Solutions\n888 Renewable Way\nPortland, OR 97201\nPhone: (503) 555-7890",
+    "field": "invoice_date",
+    "value": "July 7, 2023"
+  },
+  {
+    "text": "INVOICE\n\nInvoice No.: INV/2023/452\nDate: July 7, 2023\n\nVendor:\nGreen Energy Solutions\n888 Renewable Way\nPortland, OR 97201\nPhone: (503) 555-7890",
+    "field": "issuer_name",
+    "value": "Green Energy Solutions"
+  },
+  {
+    "text": "Bill To:\nEco Friendly Corp\n333 Sustainability Ave\nSeattle, WA 98101\nPhone: (206) 555-1234",
+    "field": "recipient_name",
+    "value": "Eco Friendly Corp"
+  },
+  {
+    "text": "Description                      Amount\nSolar Panel Installation         $12,500.00\nEnergy Efficiency Consultation   $2,750.00\nSmart Home Integration           $1,800.00\n                               ___________\nTotal                           $17,050.00",
+    "field": "total_amount",
+    "value": "$17,050.00"
+  },
+  {
+    "text": "INVOICE\nReference: SHIP-23-789\nOrder Date: November 12, 2023\nShip Date: November 15, 2023\nDue Date: December 12, 2023",
+    "field": "invoice_number",
+    "value": "SHIP-23-789"
+  },
+  {
+    "text": "INVOICE\nReference: SHIP-23-789\nOrder Date: November 12, 2023\nShip Date: November 15, 2023\nDue Date: December 12, 2023",
+    "field": "invoice_date",
+    "value": "November 12, 2023"
+  },
+  {
+    "text": "INVOICE\nReference: SHIP-23-789\nOrder Date: November 12, 2023\nShip Date: November 15, 2023\nDue Date: December 12, 2023",
+    "field": "due_date",
+    "value": "December 12, 2023"
+  }
+] 

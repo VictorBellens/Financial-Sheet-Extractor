@@ -1,0 +1,332 @@
+[
+  {
+    "filename": "invoice_Aaron Bergman_36258.pdf",
+    "data": {
+      "invoice_number": "36258",
+      "invoice_date": "Mar 06 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Bergman",
+      "total_amount": "50.10",
+      "currency_code": "USD",
+      "amount_value": "50.10",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Bergman_36259.pdf",
+    "data": {
+      "invoice_number": "36259",
+      "invoice_date": "Mar 06 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Bergman",
+      "total_amount": "58.11",
+      "currency_code": "USD",
+      "amount_value": "58.11",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Bergman_36260.pdf",
+    "data": {
+      "invoice_number": "36260",
+      "invoice_date": "Jun 5, 2023",
+      "due_date": null,
+      "issuer_name": "Total: $0.00",
+      "recipient_name": "Aaron Bergman",
+      "total_amount": "0.00",
+      "currency_code": "USD",
+      "amount_value": "0.00",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 1.0,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 0.49999999999999994
+      },
+      "overall_confidence": 0.5955882352941175
+    }
+  },
+  {
+    "filename": "invoice_Aaron Bergman_39519.pdf",
+    "data": {
+      "invoice_number": "39519",
+      "invoice_date": "Feb 19 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Bergman",
+      "total_amount": "22.17",
+      "currency_code": "USD",
+      "amount_value": "22.17",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_36651.pdf",
+    "data": {
+      "invoice_number": "36651",
+      "invoice_date": "May 12 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "1,353.08",
+      "currency_code": "USD",
+      "amount_value": "1353.08",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_36652.pdf",
+    "data": {
+      "invoice_number": "36652",
+      "invoice_date": "May 12 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "17.15",
+      "currency_code": "USD",
+      "amount_value": "17.15",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_37425.pdf",
+    "data": {
+      "invoice_number": "37425",
+      "invoice_date": "Oct 24 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "160.94",
+      "currency_code": "USD",
+      "amount_value": "160.94",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_38460.pdf",
+    "data": {
+      "invoice_number": "38460",
+      "invoice_date": "Apr 21 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "2,037.92",
+      "currency_code": "USD",
+      "amount_value": "2037.92",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_38461.pdf",
+    "data": {
+      "invoice_number": "38461",
+      "invoice_date": "Jun 5, 2023",
+      "due_date": null,
+      "issuer_name": "Total: $0.00",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "0.00",
+      "currency_code": "USD",
+      "amount_value": "0.00",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 1.0,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 0.49999999999999994
+      },
+      "overall_confidence": 0.5955882352941175
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_4820.pdf",
+    "data": {
+      "invoice_number": "4820",
+      "invoice_date": "Dec 08 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "2,724.57",
+      "currency_code": "USD",
+      "amount_value": "2724.57",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 1.0
+      },
+      "overall_confidence": 0.6735294117647058
+    }
+  },
+  {
+    "filename": "invoice_Aaron Hawkins_6817.pdf",
+    "data": {
+      "invoice_number": "6817",
+      "invoice_date": "Oct 23 2012",
+      "due_date": null,
+      "issuer_name": "Bill To: Ship To:",
+      "recipient_name": "Aaron Hawkins",
+      "total_amount": "10,672.30",
+      "currency_code": "USD",
+      "amount_value": "10672.30",
+      "validation": {
+        "invoice_number": true,
+        "invoice_date": true,
+        "due_date": false,
+        "issuer_name": false,
+        "recipient_name": true,
+        "total_amount": true
+      },
+      "confidence": {
+        "invoice_number": 0.9999999999999999,
+        "invoice_date": 0.8999999999999999,
+        "due_date": 0.0,
+        "issuer_name": 0.0,
+        "recipient_name": 0.7,
+        "total_amount": 0.8999999999999999
+      },
+      "overall_confidence": 0.6544117647058822
+    }
+  }
+]
